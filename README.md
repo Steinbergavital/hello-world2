@@ -1,2 +1,2 @@
 # hello-world2
-Just playing with Github
+אני רק משחקת בגיטהב.
